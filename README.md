@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mjthedev](https://github.com/mjthedev)
 
-- 📝 I regularly write articles on [marrionjohnson.io](marrionjohnson.io)
+- 📝 I regularly post articles i've read on [marrionjohnson.io](marrionjohnson.io)
 
 - 📫 How to reach me **i@marrionjohnson.io**
 
